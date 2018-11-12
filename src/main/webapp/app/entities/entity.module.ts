@@ -8,7 +8,6 @@ import { MasterLoanGatewayLoanModule as MasterLoanFormsLoanModule } from './Mast
 import { MasterLoanGatewayLoanFeeModule as MasterLoanFormsLoanFeeModule } from './MasterLoanForms/loan-fee/loan-fee.module';
 import { MasterLoanGatewayQuestionModule as MasterLoanFormsQuestionModule } from './MasterLoanForms/question/question.module';
 import { MasterLoanGatewayUserloanModule as MasterLoanAuthenticationUserloanModule } from './MasterLoanAuthentication/userloan/userloan.module';
-import { MasterLoanGatewayUserLoanModule as MasterLoanAuthenticationUserLoanModule } from './MasterLoanAuthentication/user-loan/user-loan.module';
 /* jhipster-needle-add-entity-module-import - JHipster will add entity modules imports here */
 
 @NgModule({
@@ -22,7 +21,6 @@ import { MasterLoanGatewayUserLoanModule as MasterLoanAuthenticationUserLoanModu
         MasterLoanFormsLoanFeeModule,
         MasterLoanFormsQuestionModule,
         MasterLoanAuthenticationUserloanModule,
-        MasterLoanAuthenticationUserLoanModule,
         /* jhipster-needle-add-entity-module - JHipster will add entity modules here */
     ],
     declarations: [],

@@ -34,7 +34,7 @@
     "jhipsterVersion": "5.6.1",
     "jwtSecretKey": "NjJkMzM1NDU0YWU1ZGY2MGEzN2UwOWYwNDQ4YTY4NDc1ODM4ODgxOGY2MTUzMjgwYWEyMTE4NDI2YzY2M2VkOGY4N2QxMzMyYzgzMjUxODIwNmY2MzNlYjI4NTNmOTI1NTAwN2QzMmJjMTAxZTQ2ZGU3NzRmYjYyZDM2YTllY2E=",
     "promptValues": {
-      "microservicePath": "../msauthentication"
+      "microservicePath": "../msuserauth"
     }
   },
   "git-provider": "GitHub",
